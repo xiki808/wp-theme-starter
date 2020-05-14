@@ -1,4 +1,4 @@
-# wp-theme-starter
+# WordPress Theme Starter
 
 A WordPress theme starter to use as a starting template to build a custom theme. The template encourages the use of namespaces as specified by [PSR-4](https://www.php-fig.org/psr/psr-4/)
 
